@@ -5,7 +5,7 @@
 ## Tecnologias Utilizadas
 
 <div style="display: inline_block">    
-  <img alin="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="90" height="90"/> 
+  <img alin="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="70" height="70"/> 
 </div>
 
 ## Descrição
