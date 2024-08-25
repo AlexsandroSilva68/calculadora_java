@@ -1,0 +1,16 @@
+# Diretórios de build
+/bin/
+
+# Arquivos de configuração do Eclipse
+.settings/
+.project
+.classpath
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+*.swp
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
